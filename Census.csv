@@ -1,0 +1,931 @@
+area_type,area_name,2010,2020,population_change,population_change_perc
+Town,Palm Tree town,,32954,,
+Town,Vernon town,5408,8318,2910,0.5381
+Town,Shelter Island town,2392,3253,861,0.3599
+Town,East Hampton town,21457,28385,6928,0.3229
+Town,Watertown town,4470,5913,1443,0.3228
+Town,Perry town,4616,5832,1216,0.2634
+Town,Florence town,1025,1284,259,0.2527
+Town,Montague town,78,97,19,0.2436
+Town,Ovid town,2311,2847,536,0.2319
+Town,Southampton town,56790,69036,12246,0.2156
+Town,Ballston town,9776,11831,2055,0.2102
+Town,Farmington town,11825,14170,2345,0.1983
+Town,Halfmoon town,21535,25662,4127,0.1916
+Town,Ramapo town,126595,148919,22324,0.1763
+Town,Le Ray town,21782,25574,3792,0.1741
+Town,Root town,1715,2013,298,0.1738
+Town,Dickinson town,823,965,142,0.1725
+Town,Malta town,14765,17130,2365,0.1602
+Town,Benson town,192,221,29,0.151
+Town,Lake Pleasant town,781,897,116,0.1485
+Town,Schroon town,1654,1880,226,0.1366
+Town,Centerville town,822,929,107,0.1302
+Town,Green Island town,2620,2934,314,0.1198
+Town,Ithaca town,19930,22283,2353,0.1181
+Town,Long Lake town,711,791,80,0.1125
+Town,Wallkill town,27426,30486,3060,0.1116
+Town,French Creek town,906,1007,101,0.1115
+Town,West Bloomfield town,2466,2740,274,0.1111
+Town,Victor town,14275,15860,1585,0.111
+Town,Hunter town,2732,3035,303,0.1109
+Town,West Turin town,1524,1692,168,0.1102
+Town,Canandaigua town,10020,11109,1089,0.1087
+Town,Henrietta town,42581,47096,4515,0.106
+Town,Prattsville town,700,774,74,0.1057
+Town,Fallsburg town,12870,14192,1322,0.1027
+Town,Allen town,448,494,46,0.1027
+Town,New Windsor town,25244,27805,2561,0.1014
+Town,North Greenbush town,12075,13292,1217,0.1008
+Town,Moreau town,14728,16202,1474,0.1001
+Town,Pendleton town,6397,7035,638,0.0997
+Town,West Union town,312,343,31,0.0994
+Town,Harrisburg town,437,480,43,0.0984
+Town,Edinburg town,1214,1333,119,0.098
+Town,Fishkill town,22107,24226,2119,0.0959
+Town,New Lebanon town,2305,2514,209,0.0907
+Town,Van Buren town,13185,14367,1182,0.0896
+Town,Mamaroneck town,29156,31758,2602,0.0892
+Town,Stillwater town,8287,9022,735,0.0887
+Town,Brandon town,577,628,51,0.0884
+Town,Penfield town,36242,39438,3196,0.0882
+Town,Lancaster town,41604,45106,3502,0.0842
+Town,Thompson town,15308,16550,1242,0.0811
+Town,Southold town,21968,23732,1764,0.0803
+Town,Rye town,45928,49613,3685,0.0802
+Town,Greenburgh town,88400,95397,6997,0.0792
+Town,Woodbury town,11353,12197,844,0.0743
+Town,Clarence town,30673,32950,2277,0.0742
+Town,Greenport town,4165,4473,308,0.0739
+Town,Wilton town,16173,17361,1188,0.0735
+Town,Newburgh town,29801,31985,2184,0.0733
+Town,Riverhead town,33506,35902,2396,0.0715
+Town,Eastchester town,32363,34641,2278,0.0704
+Town,Morehouse town,86,92,6,0.0698
+Town,Niskayuna town,21781,23278,1497,0.0687
+Town,Woodstock town,5884,6287,403,0.0685
+Town,Haverstraw town,36634,39087,2453,0.067
+Town,Inlet town,333,355,22,0.0661
+Town,Goshen town,13687,14571,884,0.0646
+Town,Ossining town,37674,40061,2387,0.0634
+Town,Webster town,42641,45327,2686,0.063
+Town,Osceola town,229,243,14,0.0611
+Town,Lysander town,21759,23074,1315,0.0604
+Town,Sterling town,3040,3221,181,0.0595
+Town,Decatur town,353,374,21,0.0595
+Town,Amherst town,122366,129595,7229,0.0591
+Town,Horicon town,1389,1471,82,0.059
+Town,Canton town,10995,11638,643,0.0585
+Town,Pamelia town,3160,3343,183,0.0579
+Town,Henderson town,1360,1438,78,0.0574
+Town,Ellenburg town,1743,1842,99,0.0568
+Town,Hammond town,1191,1258,67,0.0563
+Town,Esopus town,9041,9548,507,0.0561
+Town,Chester town,11981,12646,665,0.0555
+Town,Cochecton town,1372,1448,76,0.0554
+Town,Hamburg town,56936,60085,3149,0.0553
+Town,Geneva town,3291,3473,182,0.0553
+Town,Pelham town,12396,13078,682,0.055
+Town,Morristown town,1974,2082,108,0.0547
+Town,Colton town,1451,1530,79,0.0544
+Town,Somers town,20434,21541,1107,0.0542
+Town,Brunswick town,11941,12581,640,0.0536
+Town,Benton town,2836,2985,149,0.0525
+Town,Lyme town,2185,2299,114,0.0522
+Town,New Scotland town,8648,9096,448,0.0518
+Town,Tuxedo town,3624,3811,187,0.0516
+Town,North Hempstead town,226322,237639,11317,0.05
+Town,Grand Island town,20374,21389,1015,0.0498
+Town,Warsaw town,5064,5316,252,0.0498
+Town,Kingston town,889,933,44,0.0495
+Town,Poughkeepsie town,43341,45471,2130,0.0491
+Town,Rotterdam town,29094,30523,1429,0.0491
+Town,Hopewell town,3747,3931,184,0.0491
+Town,Colonie town,81591,85590,3999,0.049
+Town,Caroga town,1205,1264,59,0.049
+Town,Camillus town,24167,25346,1179,0.0488
+Town,Lansing town,11033,11565,532,0.0482
+Town,Berkshire town,1412,1480,68,0.0482
+Town,North Castle town,11841,12408,567,0.0479
+Town,Clermont town,1965,2058,93,0.0473
+Town,Charlton town,4133,4328,195,0.0472
+Town,Mamakating town,12085,12655,570,0.0472
+Town,Brasher town,2512,2627,115,0.0458
+Town,Queensbury town,27901,29169,1268,0.0454
+Town,Williamstown town,1277,1335,58,0.0454
+Town,Vestal town,28043,29313,1270,0.0453
+Town,Edmeston town,1826,1907,81,0.0444
+Town,Hempstead town,759757,793409,33652,0.0443
+Town,Guilderland town,35303,36848,1545,0.0438
+Town,Blooming Grove town,18028,18811,783,0.0434
+Town,Mansfield town,808,843,35,0.0433
+Town,Wappinger town,27048,28216,1168,0.0432
+Town,Willing town,1228,1281,53,0.0432
+Town,New Castle town,17569,18311,742,0.0422
+Town,North Hudson town,240,250,10,0.0417
+Town,Manlius town,32370,33712,1342,0.0415
+Town,Pittsford town,29405,30617,1212,0.0412
+Town,Stockholm town,3665,3816,151,0.0412
+Town,Bethlehem town,33656,35034,1378,0.0409
+Town,Providence town,1995,2075,80,0.0401
+Town,Clay town,58206,60527,2321,0.0399
+Town,Bovina town,633,658,25,0.0395
+Town,Parma town,15633,16217,584,0.0374
+Town,Wawayanda town,7266,7534,268,0.0369
+Town,Lapeer town,767,795,28,0.0365
+Town,Marathon town,1967,2038,71,0.0361
+Town,Clifton Park town,36705,38029,1324,0.0361
+Town,Highlands town,12492,12939,447,0.0358
+Town,Elma town,11317,11721,404,0.0357
+Town,Keene town,1105,1144,39,0.0353
+Town,Kiantone town,1350,1397,47,0.0348
+Town,Duane town,174,180,6,0.0345
+Town,Tompkins town,1247,1290,43,0.0345
+Town,Elizabethtown town,1163,1203,40,0.0344
+Town,Croghan town,3093,3197,104,0.0336
+Town,Tyre town,981,1013,32,0.0326
+Town,Clymer town,1698,1753,55,0.0324
+Town,South Bristol town,1590,1641,51,0.0321
+Town,Clarkstown town,84187,86855,2668,0.0317
+Town,Montgomery town,22606,23322,716,0.0317
+Town,Ontario town,10136,10446,310,0.0306
+Town,Northumberland town,5087,5242,155,0.0305
+Town,Greenfield town,7775,8004,229,0.0295
+Town,New Bremen town,2706,2785,79,0.0292
+Town,Minisink town,4490,4621,131,0.0292
+Town,Galen town,4290,4415,125,0.0291
+Town,Lisbon town,4102,4221,119,0.029
+Town,New Paltz town,14003,14407,404,0.0289
+Town,Wheatfield town,18117,18638,521,0.0288
+Town,Liberty town,9885,10159,274,0.0277
+Town,Oyster Bay town,293214,301332,8118,0.0277
+Town,Danby town,3329,3421,92,0.0276
+Town,North Salem town,5104,5243,139,0.0272
+Town,Harrison town,27472,28218,746,0.0272
+Town,Ulster town,12327,12660,333,0.027
+Town,Gates town,28400,29167,767,0.027
+Town,New Haven town,2856,2931,75,0.0263
+Town,Busti town,7351,7543,192,0.0261
+Town,Hopkinton town,1077,1105,28,0.026
+Town,Wheatland town,4775,4897,122,0.0255
+Town,De Peyster town,998,1023,25,0.0251
+Town,Tyrone town,1597,1637,40,0.025
+Town,Clarkson town,6736,6904,168,0.0249
+Town,Lloyd town,10863,11133,270,0.0249
+Town,Hope town,403,413,10,0.0248
+Town,Saratoga town,5674,5808,134,0.0236
+Town,Kingsbury town,12671,12968,297,0.0234
+Town,East Fishkill town,29029,29707,678,0.0234
+Town,Humphrey town,687,703,16,0.0233
+Town,Cortlandt town,41592,42545,953,0.0229
+Town,Bleecker town,533,545,12,0.0225
+Town,Perinton town,46462,47479,1017,0.0219
+Town,Orchard Park town,29054,29686,632,0.0218
+Town,Babylon town,213603,218223,4620,0.0216
+Town,Fabius town,1964,2006,42,0.0214
+Town,Ogden town,19856,20270,414,0.0209
+Town,Cornwall town,12646,12884,238,0.0188
+Town,Cheektowaga town,88226,89877,1651,0.0187
+Town,Rodman town,1176,1197,21,0.0179
+Town,West Seneca town,44711,45500,789,0.0176
+Town,Philipstown town,9662,9831,169,0.0175
+Town,Chili town,28625,29123,498,0.0174
+Town,Covington town,1232,1253,21,0.017
+Town,East Greenbush town,16473,16748,275,0.0167
+Town,Mount Pleasant town,43724,44436,712,0.0163
+Town,Caroline town,3282,3334,52,0.0158
+Town,Greenville town,4616,4689,73,0.0158
+Town,La Grange town,15730,15975,245,0.0156
+Town,Champion town,4494,4562,68,0.0151
+Town,Brighton town,36609,37137,528,0.0144
+Town,Philadelphia town,1947,1975,28,0.0144
+Town,New Hudson town,781,792,11,0.0141
+Town,Yorktown town,36081,36569,488,0.0135
+Town,Schodack town,12794,12965,171,0.0134
+Town,Wells town,674,683,9,0.0134
+Town,Macedon town,9148,9270,122,0.0133
+Town,Torrey town,1282,1299,17,0.0133
+Town,Freetown town,757,767,10,0.0132
+Town,Pleasant Valley town,9672,9799,127,0.0131
+Town,Islip town,335543,339938,4395,0.0131
+Town,Chesterfield town,2445,2476,31,0.0127
+Town,Veteran town,3313,3355,42,0.0127
+Town,Milton town,18575,18800,225,0.0121
+Town,Mexico town,5197,5259,62,0.0119
+Town,Au Sable town,3146,3183,37,0.0118
+Town,Aurora town,13782,13943,161,0.0117
+Town,Glen town,2507,2536,29,0.0116
+Town,Newstead town,8594,8689,95,0.0111
+Town,Virgil town,2401,2425,24,0.01
+Town,Turin town,761,768,7,0.0092
+Town,De Witt town,25838,26074,236,0.0091
+Town,Marbletown town,5607,5658,51,0.0091
+Town,Crown Point town,2024,2042,18,0.0089
+Town,Franklin town,1140,1150,10,0.0088
+Town,Greece town,96095,96926,831,0.0086
+Town,Russell town,1856,1872,16,0.0086
+Town,Great Valley town,1974,1991,17,0.0086
+Town,Bethany town,1765,1780,15,0.0085
+Town,Indian Lake town,1352,1363,11,0.0081
+Town,Big Flats town,7731,7791,60,0.0078
+Town,Plainfield town,915,922,7,0.0077
+Town,Erwin town,8037,8095,58,0.0072
+Town,Reading town,1707,1719,12,0.007
+Town,Macomb town,906,912,6,0.0066
+Town,Montour town,2308,2323,15,0.0065
+Town,Rhinebeck town,7548,7596,48,0.0064
+Town,Ellicott town,8714,8768,54,0.0062
+Town,Claverack town,6021,6058,37,0.0061
+Town,Westport town,1312,1320,8,0.0061
+Town,Ava town,676,680,4,0.0059
+Town,Madrid town,1735,1744,9,0.0052
+Town,Cherry Valley town,1223,1229,6,0.0049
+Town,New Albion town,1972,1981,9,0.0046
+Town,Huntington town,203264,204127,863,0.0042
+Town,Covert town,2154,2163,9,0.0042
+Town,Rush town,3478,3490,12,0.0035
+Town,Bangor town,2224,2231,7,0.0031
+Town,Yates town,2559,2567,8,0.0031
+Town,Windham town,1703,1708,5,0.0029
+Town,Le Roy town,7641,7662,21,0.0027
+Town,Canadice town,1664,1668,4,0.0024
+Town,Lockport town,20529,20563,34,0.0017
+Town,East Bloomfield town,3634,3640,6,0.0017
+Town,Plattsburgh town,11870,11886,16,0.0013
+Town,Wales town,3005,3009,4,0.0013
+Town,Hume town,2071,2073,2,0.001
+Town,Manchester town,9395,9404,9,0.001
+Town,Greenville town,3739,3741,2,0.0005
+Town,Augusta town,2020,2021,1,0.0005
+Town,Bergen town,3120,3120,0,0
+Town,Pompey town,7080,7080,0,0
+Town,Richmond town,3361,3360,-1,-0.0003
+Town,Orleans town,2789,2788,-1,-0.0004
+Town,Lyons town,5682,5679,-3,-0.0005
+Town,Brookhaven town,486040,485773,-267,-0.0005
+Town,Riga town,5590,5586,-4,-0.0007
+Town,Warwick town,32065,32027,-38,-0.0012
+Town,Seneca Falls town,9040,9027,-13,-0.0014
+Town,Bedford town,17335,17309,-26,-0.0015
+Town,Champlain town,5754,5745,-9,-0.0016
+Town,Amsterdam town,5566,5557,-9,-0.0016
+Town,Geddes town,17118,17088,-30,-0.0018
+Town,Ulysses town,4900,4890,-10,-0.002
+Town,Ephratah town,1682,1677,-5,-0.003
+Town,Davenport town,2965,2955,-10,-0.0034
+Town,Union town,56346,56138,-208,-0.0037
+Town,Lake George town,3515,3502,-13,-0.0037
+Town,Potter town,1865,1858,-7,-0.0038
+Town,Dansville town,1842,1835,-7,-0.0038
+Town,Cairo town,6670,6644,-26,-0.0039
+Town,Putnam Valley town,11809,11762,-47,-0.004
+Town,Jasper town,1424,1418,-6,-0.0042
+Town,Arcade town,4205,4187,-18,-0.0043
+Town,Pound Ridge town,5104,5082,-22,-0.0043
+Town,Cape Vincent town,2777,2765,-12,-0.0043
+Town,Lebanon town,1332,1326,-6,-0.0045
+Town,Whitehall town,4042,4023,-19,-0.0047
+Town,Corinth town,6531,6500,-31,-0.0047
+Town,Victory town,1660,1652,-8,-0.0048
+Town,Livingston town,3646,3628,-18,-0.0049
+Town,Glenville town,29480,29326,-154,-0.0052
+Town,North Collins town,3523,3504,-19,-0.0054
+Town,Webb town,1807,1797,-10,-0.0055
+Town,Rochester town,7313,7272,-41,-0.0056
+Town,Galway town,3545,3525,-20,-0.0056
+Town,Horseheads town,19485,19374,-111,-0.0057
+Town,Chatham town,4128,4104,-24,-0.0058
+Town,Moira town,2934,2916,-18,-0.0061
+Town,Cicero town,31632,31435,-197,-0.0062
+Town,Mendon town,9152,9095,-57,-0.0062
+Town,Pembroke town,4292,4264,-28,-0.0065
+Town,Beekmantown town,5545,5508,-37,-0.0067
+Town,Mount Morris town,4465,4435,-30,-0.0067
+Town,Columbia town,1580,1569,-11,-0.007
+Town,Onondaga town,23101,22937,-164,-0.0071
+Town,Plattekill town,10499,10424,-75,-0.0071
+Town,Rutland town,3060,3038,-22,-0.0072
+Town,Coldspring town,663,658,-5,-0.0075
+Town,Jay town,2506,2486,-20,-0.008
+Town,Boonville town,4555,4518,-37,-0.0081
+Town,LaFayette town,4952,4910,-42,-0.0085
+Town,Oswego town,7984,7914,-70,-0.0088
+Town,Springfield town,1358,1346,-12,-0.0088
+Town,Hector town,4940,4895,-45,-0.0091
+Town,Germantown town,1954,1936,-18,-0.0092
+Town,Rensselaerville town,1843,1826,-17,-0.0092
+Town,Boston town,8023,7948,-75,-0.0093
+Town,Minetto town,1659,1643,-16,-0.0096
+Town,Bridgewater town,1522,1507,-15,-0.0099
+Town,Newfield town,5179,5126,-53,-0.0102
+Town,Florida town,2696,2667,-29,-0.0108
+Town,Marlborough town,8808,8712,-96,-0.0109
+Town,Orangetown town,49212,48655,-557,-0.0113
+Town,Hastings town,9450,9342,-108,-0.0114
+Town,Van Etten town,1557,1539,-18,-0.0116
+Town,Lewis town,854,844,-10,-0.0117
+Town,Stony Creek town,767,758,-9,-0.0117
+Town,Cortlandville town,8509,8409,-100,-0.0118
+Town,Lewisboro town,12411,12265,-146,-0.0118
+Town,Elmira town,6934,6848,-86,-0.0124
+Town,St. Johnsville town,2631,2598,-33,-0.0125
+Town,Irondequoit town,51692,51043,-649,-0.0126
+Town,Tonawanda town,73567,72636,-931,-0.0127
+Town,Smithtown town,117801,116296,-1505,-0.0128
+Town,Hornby town,1706,1684,-22,-0.0129
+Town,Hamptonburgh town,5561,5489,-72,-0.0129
+Town,Charleston town,1373,1355,-18,-0.0131
+Town,New Hartford town,22166,21874,-292,-0.0132
+Town,Bristol town,2315,2284,-31,-0.0134
+Town,Forestburgh town,819,808,-11,-0.0134
+Town,Skaneateles town,7209,7112,-97,-0.0135
+Town,Waddington town,2266,2235,-31,-0.0137
+Town,Richland town,5718,5637,-81,-0.0142
+Town,Stafford town,2459,2424,-35,-0.0142
+Town,Amboy town,1263,1245,-18,-0.0143
+Town,Jerusalem town,4469,4405,-64,-0.0143
+Town,Salina town,33710,33223,-487,-0.0144
+Town,Solon town,1079,1063,-16,-0.0148
+Town,Wright town,1539,1516,-23,-0.0149
+Town,Eden town,7688,7573,-115,-0.015
+Town,Greenwich town,4942,4868,-74,-0.015
+Town,Alfred town,5237,5157,-80,-0.0153
+Town,Conquest town,1819,1791,-28,-0.0154
+Town,Farmersville town,1090,1073,-17,-0.0156
+Town,Belfast town,1663,1637,-26,-0.0156
+Town,Palatine town,3240,3189,-51,-0.0157
+Town,Stony Point town,15059,14813,-246,-0.0163
+Town,Cambria town,5839,5743,-96,-0.0164
+Town,Greig town,1199,1179,-20,-0.0167
+Town,Alexander town,2534,2491,-43,-0.017
+Town,Perth town,3646,3584,-62,-0.017
+Town,Moriah town,4798,4716,-82,-0.0171
+Town,Steuben town,1100,1081,-19,-0.0173
+Town,Sheldon town,2409,2367,-42,-0.0174
+Town,Homer town,6405,6293,-112,-0.0175
+Town,Austerlitz town,1654,1625,-29,-0.0175
+Town,Williamson town,6984,6860,-124,-0.0178
+Town,Paris town,4411,4332,-79,-0.0179
+Town,Gardiner town,5713,5610,-103,-0.018
+Town,Ghent town,5402,5303,-99,-0.0183
+Town,Sherburne town,4048,3973,-75,-0.0185
+Town,Royalton town,7660,7517,-143,-0.0187
+Town,Sherman town,1653,1622,-31,-0.0188
+Town,Canajoharie town,3730,3660,-70,-0.0188
+Town,Southeast town,18404,18058,-346,-0.0188
+Town,Lowville town,4982,4888,-94,-0.0189
+Town,Carroll town,3524,3456,-68,-0.0193
+Town,Lewiston town,16262,15944,-318,-0.0196
+Town,Kinderhook town,8498,8330,-168,-0.0198
+Town,North East town,3031,2971,-60,-0.0198
+Town,Crawford town,9316,9130,-186,-0.02
+Town,Walworth town,9449,9253,-196,-0.0207
+Town,Concord town,8494,8316,-178,-0.021
+Town,Pulteney town,1285,1258,-27,-0.021
+Town,Knox town,2692,2635,-57,-0.0212
+Town,Carmel town,34305,33576,-729,-0.0213
+Town,Sardinia town,2775,2716,-59,-0.0213
+Town,Sand Lake town,8530,8348,-182,-0.0213
+Town,Hurley town,6314,6178,-136,-0.0215
+Town,Hanover town,7127,6972,-155,-0.0217
+Town,Lisle town,2751,2691,-60,-0.0218
+Town,Coeymans town,7418,7256,-162,-0.0218
+Town,Broadalbin town,5260,5145,-115,-0.0219
+Town,Yorkshire town,3913,3827,-86,-0.022
+Town,Callicoon town,3057,2989,-68,-0.0222
+Town,Floyd town,3819,3733,-86,-0.0225
+Town,Tully town,2738,2676,-62,-0.0226
+Town,Saugerties town,19482,19038,-444,-0.0228
+Town,Marcy town,8982,8777,-205,-0.0228
+Town,Salamanca town,481,470,-11,-0.0229
+Town,Marcellus town,6210,6066,-144,-0.0232
+Town,Kirkland town,10315,10075,-240,-0.0233
+Town,Caledonia town,4255,4154,-101,-0.0237
+Town,Geneseo town,10483,10234,-249,-0.0238
+Town,Gallatin town,1668,1628,-40,-0.024
+Town,Baldwin town,832,812,-20,-0.024
+Town,White Creek town,3356,3275,-81,-0.0241
+Town,De Kalb town,2434,2375,-59,-0.0242
+Town,Wilson town,5993,5847,-146,-0.0244
+Town,Easton town,2336,2279,-57,-0.0244
+Town,Somerset town,2662,2597,-65,-0.0244
+Town,Sparta town,1624,1583,-41,-0.0252
+Town,Hinsdale town,2168,2113,-55,-0.0254
+Town,Pierrepont town,2589,2523,-66,-0.0255
+Town,Hyde Park town,21571,21021,-550,-0.0255
+Town,Waterford town,8423,8208,-215,-0.0255
+Town,Preble town,1393,1357,-36,-0.0258
+Town,Marilla town,5327,5189,-138,-0.0259
+Town,Argyle town,3782,3644,-138,-0.0365
+Town,Chenango town,11252,10959,-293,-0.026
+Town,Ridgeway town,6780,6598,-182,-0.0268
+Town,New Lisbon town,1114,1084,-30,-0.0269
+Town,Fowler town,2202,2142,-60,-0.0272
+Town,Machias town,2375,2310,-65,-0.0274
+Town,Dix town,3864,3757,-107,-0.0277
+Town,Barton town,8858,8609,-249,-0.0281
+Town,Hornellsville town,4151,4034,-117,-0.0282
+Town,Byron town,2369,2302,-67,-0.0283
+Town,Seneca town,2721,2644,-77,-0.0283
+Town,Canisteo town,3391,3295,-96,-0.0283
+Town,Afton town,2851,2769,-82,-0.0288
+Town,Norway town,762,740,-22,-0.0289
+Town,Milo town,7006,6803,-203,-0.029
+Town,Ira town,2206,2142,-64,-0.029
+Town,Rathbone town,1126,1093,-33,-0.0293
+Town,Wawarsing town,13157,12771,-386,-0.0293
+Town,Black Brook town,1497,1453,-44,-0.0294
+Town,Candor town,5305,5149,-156,-0.0294
+Town,Whitestown town,18667,18118,-549,-0.0294
+Town,Catlin town,2618,2541,-77,-0.0294
+Town,Meredith town,1529,1484,-45,-0.0294
+Town,Roseboom town,711,690,-21,-0.0295
+Town,Camden town,4934,4787,-147,-0.0298
+Town,Friendship town,2004,1944,-60,-0.0299
+Town,Greenwood town,801,777,-24,-0.03
+Town,Burke town,1465,1421,-44,-0.03
+Town,Louisville town,3145,3050,-95,-0.0302
+Town,Schaghticoke town,7679,7445,-234,-0.0305
+Town,Minden town,4297,4166,-131,-0.0305
+Town,Schoharie town,3205,3107,-98,-0.0306
+Town,Hermon town,1108,1074,-34,-0.0307
+Town,Beekman town,14621,14172,-449,-0.0307
+Town,Wayne town,1041,1009,-32,-0.0307
+Town,Hoosick town,6924,6711,-213,-0.0308
+Town,Albion town,2073,2009,-64,-0.0309
+Town,Lyndon town,707,685,-22,-0.0311
+Town,Oneonta town,5229,5065,-164,-0.0314
+Town,Avon town,7164,6939,-225,-0.0314
+Town,Woodhull town,1719,1665,-54,-0.0314
+Town,Sandy Creek town,3939,3813,-126,-0.032
+Town,Peru town,6998,6772,-226,-0.0323
+Town,Oakfield town,3250,3145,-105,-0.0323
+Town,Johnstown town,7098,6867,-231,-0.0325
+Town,Scriba town,6840,6617,-223,-0.0326
+Town,Dover town,8699,8415,-284,-0.0326
+Town,Rose town,2369,2291,-78,-0.0329
+Town,Warrensburg town,4094,3959,-135,-0.033
+Town,Adams town,5143,4973,-170,-0.0331
+Town,North Harmony town,2267,2192,-75,-0.0331
+Town,Vienna town,5440,5260,-180,-0.0331
+Town,Gorham town,4247,4106,-141,-0.0332
+Town,Hartford town,2269,2193,-76,-0.0335
+Town,Smyrna town,1280,1237,-43,-0.0336
+Town,Brutus town,4464,4314,-150,-0.0336
+Town,Fenner town,1726,1668,-58,-0.0336
+Town,Dickinson town,5278,5100,-178,-0.0337
+Town,Pittstown town,5735,5540,-195,-0.034
+Town,Westville town,1819,1757,-62,-0.0341
+Town,Cambridge town,2021,1952,-69,-0.0341
+Town,Groton town,5950,5746,-204,-0.0343
+Town,Waterloo town,7642,7378,-264,-0.0345
+Town,Mooers town,3592,3467,-125,-0.0348
+Town,Westmoreland town,6138,5924,-214,-0.0349
+Town,Halcott town,258,249,-9,-0.0349
+Town,Massena town,12883,12433,-450,-0.0349
+Town,Lima town,4305,4154,-151,-0.0351
+Town,Ellisburg town,3474,3352,-122,-0.0351
+Town,Hadley town,2048,1976,-72,-0.0352
+Town,Holland town,3401,3281,-120,-0.0353
+Town,Granger town,538,519,-19,-0.0353
+Town,Hamlin town,9045,8725,-320,-0.0354
+Town,Genesee town,1693,1633,-60,-0.0354
+Town,Sullivan town,15339,14794,-545,-0.0355
+Town,Durham town,2725,2627,-98,-0.036
+Town,Arcadia town,14244,13731,-513,-0.036
+Town,Cuba town,3243,3126,-117,-0.0361
+Town,Hebron town,1853,1786,-67,-0.0362
+Town,Schuyler town,3420,3296,-124,-0.0363
+Town,Cato town,2537,2445,-92,-0.0363
+Town,Fenton town,6674,6429,-245,-0.0367
+Town,Dryden town,14435,13905,-530,-0.0367
+Town,Italy town,1141,1099,-42,-0.0368
+Town,Stanford town,3823,3682,-141,-0.0369
+Town,Locke town,1951,1879,-72,-0.0369
+Town,Bennington town,3359,3235,-124,-0.0369
+Town,Grafton town,2130,2051,-79,-0.0371
+Town,Little Valley town,1740,1675,-65,-0.0374
+Town,Newfane town,9666,9304,-362,-0.0375
+Town,Berne town,2794,2689,-105,-0.0376
+Town,Santa Clara town,345,332,-13,-0.0377
+Town,Forestport town,1535,1477,-58,-0.0378
+Town,Marion town,4746,4566,-180,-0.0379
+Town,Salem town,2715,2612,-103,-0.0379
+Town,Ripley town,2415,2323,-92,-0.0381
+Town,Porter town,6771,6513,-258,-0.0381
+Town,Berlin town,1880,1808,-72,-0.0383
+Town,Otto town,808,777,-31,-0.0384
+Town,Murray town,4988,4796,-192,-0.0385
+Town,Harmony town,2206,2121,-85,-0.0385
+Town,West Monroe town,4252,4088,-164,-0.0386
+Town,Stephentown town,2903,2791,-112,-0.0386
+Town,Saranac town,4007,3852,-155,-0.0387
+Town,Conewango town,1857,1785,-72,-0.0388
+Town,Lenox town,9122,8768,-354,-0.0388
+Town,Maine town,5377,5168,-209,-0.0389
+Town,North Dansville town,5538,5321,-217,-0.0392
+Town,Constantia town,4973,4778,-195,-0.0392
+Town,Kendall town,2724,2617,-107,-0.0393
+Town,Arietta town,304,292,-12,-0.0395
+Town,Pittsfield town,1366,1312,-54,-0.0395
+Town,Naples town,2502,2403,-99,-0.0396
+Town,Ohio town,1002,962,-40,-0.0399
+Town,Livonia town,7809,7497,-312,-0.04
+Town,Patterson town,12023,11541,-482,-0.0401
+Town,Catskill town,11775,11298,-477,-0.0405
+Town,Sheridan town,2673,2564,-109,-0.0408
+Town,Sidney town,5774,5536,-238,-0.0412
+Town,Newcomb town,436,418,-18,-0.0413
+Town,Java town,2057,1972,-85,-0.0413
+Town,Olean town,1963,1881,-82,-0.0418
+Town,Watson town,1881,1802,-79,-0.042
+Town,Duanesburg town,6122,5863,-259,-0.0423
+Town,Athens town,4089,3916,-173,-0.0423
+Town,Sodus town,8384,8028,-356,-0.0425
+Town,Enfield town,3512,3362,-150,-0.0427
+Town,New Baltimore town,3370,3226,-144,-0.0427
+Town,Jackson town,1800,1723,-77,-0.0428
+Town,Princetown town,2115,2024,-91,-0.043
+Town,Volney town,5926,5671,-255,-0.043
+Town,Day town,856,819,-37,-0.0432
+Town,Lexington town,805,770,-35,-0.0435
+Town,Olive town,4419,4226,-193,-0.0437
+Town,Lodi town,1550,1482,-68,-0.0439
+Town,Chazy town,4284,4096,-188,-0.0439
+Town,Colden town,3265,3121,-144,-0.0441
+Town,Granby town,6821,6520,-301,-0.0441
+Town,Minerva town,809,773,-36,-0.0445
+Town,Trenton town,4498,4297,-201,-0.0447
+Town,Kent town,13507,12900,-607,-0.0449
+Town,Gaines town,3378,3226,-152,-0.045
+Town,Wellsville town,7397,7064,-333,-0.045
+Town,Nelson town,1980,1890,-90,-0.0455
+Town,Litchfield town,1513,1444,-69,-0.0456
+Town,Corning town,6270,5983,-287,-0.0458
+Town,Poestenkill town,4530,4322,-208,-0.0459
+Town,Norfolk town,4668,4453,-215,-0.0461
+Town,Washington town,4741,4522,-219,-0.0462
+Town,Lyonsdale town,1227,1170,-57,-0.0465
+Town,Starkey town,3573,3407,-166,-0.0465
+Town,Hamilton town,6690,6379,-311,-0.0465
+Town,Triangle town,2946,2809,-137,-0.0465
+Town,Laurens town,2424,2311,-113,-0.0466
+Town,Darien town,3158,3010,-148,-0.0469
+Town,Stuyvesant town,2027,1931,-96,-0.0474
+Town,Clare town,105,100,-5,-0.0476
+Town,Niles town,1194,1137,-57,-0.0477
+Town,Villenova town,1110,1057,-53,-0.0477
+Town,Rosendale town,6075,5782,-293,-0.0482
+Town,Lee town,6486,6171,-315,-0.0486
+Town,Pinckney town,329,313,-16,-0.0486
+Town,Worcester town,2220,2112,-108,-0.0486
+Town,Cameron town,945,899,-46,-0.0487
+Town,Cazenovia town,7086,6740,-346,-0.0488
+Town,Prattsburgh town,2085,1983,-102,-0.0489
+Town,Deerpark town,7901,7509,-392,-0.0496
+Town,Westerlo town,3361,3194,-167,-0.0497
+Town,Hillsdale town,1927,1831,-96,-0.0498
+Town,Arkwright town,1061,1008,-53,-0.05
+Town,Ticonderoga town,5042,4789,-253,-0.0502
+Town,Verona town,6293,5974,-319,-0.0507
+Town,Nassau town,4789,4545,-244,-0.051
+Town,Franklin town,2411,2288,-123,-0.051
+Town,Constable town,1566,1486,-80,-0.0511
+Town,Randolph town,2602,2469,-133,-0.0511
+Town,Stockport town,2815,2670,-145,-0.0515
+Town,Milan town,2370,2245,-125,-0.0527
+Town,Palermo town,3664,3470,-194,-0.0529
+Town,South Valley town,264,250,-14,-0.053
+Town,Carlton town,2994,2835,-159,-0.0531
+Town,Orangeville town,1355,1283,-72,-0.0531
+Town,Howard town,1467,1389,-78,-0.0532
+Town,Pawling town,8463,8012,-451,-0.0533
+Town,Hounsfield town,3466,3281,-185,-0.0534
+Town,Parishville town,2153,2038,-115,-0.0534
+Town,Leicester town,2200,2082,-118,-0.0536
+Town,Shawangunk town,14332,13563,-769,-0.0537
+Town,Neversink town,3557,3366,-191,-0.0537
+Town,Mayfield town,6495,6146,-349,-0.0537
+Town,Oswegatchie town,4397,4158,-239,-0.0544
+Town,Nanticoke town,1672,1581,-91,-0.0544
+Town,Jefferson town,1410,1333,-77,-0.0546
+Town,Walton town,5576,5270,-306,-0.0549
+Town,Greene town,5604,5296,-308,-0.055
+Town,Richmondville town,2610,2466,-144,-0.0552
+Town,Owego town,19883,18777,-1106,-0.0556
+Town,Wirt town,1111,1049,-62,-0.0558
+Town,Tuscarora town,1473,1390,-83,-0.0563
+Town,Smithville town,1330,1255,-75,-0.0564
+Town,Junius town,1471,1388,-83,-0.0564
+Town,Savannah town,1730,1632,-98,-0.0566
+Town,Niagara town,8378,7903,-475,-0.0567
+Town,Little Falls town,1587,1497,-90,-0.0567
+Town,Stark town,757,714,-43,-0.0568
+Town,Bradford town,855,806,-49,-0.0573
+Town,Waverly town,1022,963,-59,-0.0577
+Town,Diana town,1709,1610,-99,-0.0579
+Town,Spafford town,1686,1588,-98,-0.0581
+Town,New Berlin town,2682,2525,-157,-0.0585
+Town,Spencer town,3153,2968,-185,-0.0587
+Town,Hartland town,4117,3874,-243,-0.059
+Town,Springport town,2367,2227,-140,-0.0591
+Town,Dunkirk town,1318,1240,-78,-0.0592
+Town,Willsboro town,2025,1905,-120,-0.0593
+Town,Amity town,2308,2171,-137,-0.0594
+Town,Fort Edward town,6371,5991,-380,-0.0596
+Town,Caton town,2179,2049,-130,-0.0597
+Town,Herkimer town,10175,9566,-609,-0.0599
+Town,Freedom town,2405,2261,-144,-0.0599
+Town,Coxsackie town,8918,8382,-536,-0.0601
+Town,Poland town,2356,2214,-142,-0.0603
+Town,Taghkanic town,1310,1231,-79,-0.0603
+Town,Fleming town,2636,2477,-159,-0.0603
+Town,Portville town,3730,3504,-226,-0.0606
+Town,Lawrence town,1826,1715,-111,-0.0608
+Town,Fort Ann town,6190,5812,-378,-0.0611
+Town,Masonville town,1320,1239,-81,-0.0614
+Town,Sempronius town,895,840,-55,-0.0615
+Town,Western town,1951,1831,-120,-0.0615
+Town,Phelps town,7072,6637,-435,-0.0615
+Town,Napoli town,1248,1171,-77,-0.0617
+Town,Rushford town,1150,1079,-71,-0.0617
+Town,Conesus town,2473,2320,-153,-0.0619
+Town,Guilford town,2922,2741,-181,-0.0619
+Town,Genoa town,1935,1815,-120,-0.062
+Town,Stockbridge town,2103,1972,-131,-0.0623
+Town,Parish town,2558,2398,-160,-0.0625
+Town,Schroeppel town,8501,7969,-532,-0.0626
+Town,Springwater town,2439,2286,-153,-0.0627
+Town,Unadilla town,4392,4116,-276,-0.0628
+Town,Franklinville town,2990,2802,-188,-0.0629
+Town,Delhi town,5117,4795,-322,-0.0629
+Town,Catharine town,1762,1651,-111,-0.063
+Town,York town,3397,3182,-215,-0.0633
+Town,Owasco town,3793,3552,-241,-0.0635
+Town,Clinton town,4312,4037,-275,-0.0638
+Town,Allegany town,8004,7493,-511,-0.0638
+Town,Conesville town,734,687,-47,-0.064
+Town,Evans town,16356,15308,-1048,-0.0641
+Town,Kirkwood town,5857,5481,-376,-0.0642
+Town,Lewis town,1382,1293,-89,-0.0644
+Town,Gerry town,1905,1782,-123,-0.0646
+Town,Aurelius town,2792,2611,-181,-0.0648
+Town,Schuyler Falls town,5181,4843,-338,-0.0652
+Town,Salisbury town,1958,1830,-128,-0.0654
+Town,Union Vale town,4877,4558,-319,-0.0654
+Town,Sweden town,14175,13244,-931,-0.0657
+Town,Binghamton town,4942,4617,-325,-0.0658
+Town,St. Armand town,1548,1446,-102,-0.0659
+Town,Pitcairn town,846,790,-56,-0.0662
+Town,Summit town,1148,1072,-76,-0.0662
+Town,Otsego town,3900,3641,-259,-0.0664
+Town,Perrysburg town,1626,1518,-108,-0.0664
+Town,North Norwich town,1783,1664,-119,-0.0667
+Town,Castile town,2906,2711,-195,-0.0671
+Town,Brownville town,6263,5842,-421,-0.0672
+Town,Butternuts town,1786,1665,-121,-0.0677
+Town,Hannibal town,4854,4525,-329,-0.0678
+Town,Deerfield town,4273,3983,-290,-0.0679
+Town,Granville town,6669,6215,-454,-0.0681
+Town,Otisco town,2541,2368,-173,-0.0681
+Town,Mount Hope town,7018,6537,-481,-0.0685
+Town,Putnam town,609,567,-42,-0.069
+Town,Fayette town,3929,3657,-272,-0.0692
+Town,Carrollton town,1297,1207,-90,-0.0694
+Town,Bethel town,4255,3959,-296,-0.0696
+Town,Colesville town,5232,4868,-364,-0.0696
+Town,Sanford town,2407,2239,-168,-0.0698
+Town,Westfield town,4896,4553,-343,-0.0701
+Town,Independence town,1167,1085,-82,-0.0703
+Town,Newport town,2302,2140,-162,-0.0704
+Town,Nichols town,2525,2347,-178,-0.0705
+Town,Mohawk town,3844,3572,-272,-0.0708
+Town,Middlebury town,1441,1339,-102,-0.0708
+Town,Shandaken town,3085,2866,-219,-0.071
+Town,Harford town,943,876,-67,-0.071
+Town,Potsdam town,16041,14901,-1140,-0.0711
+Town,Milford town,3044,2827,-217,-0.0713
+Town,Hardenburgh town,238,221,-17,-0.0714
+Town,Palmyra town,7975,7403,-572,-0.0717
+Town,Thurston town,1350,1253,-97,-0.0719
+Town,Maryland town,1897,1760,-137,-0.0722
+Town,Campbell town,3406,3160,-246,-0.0722
+Town,Alma town,842,781,-61,-0.0724
+Town,Cherry Creek town,1118,1037,-81,-0.0725
+Town,Tusten town,1515,1405,-110,-0.0726
+Town,Eagle town,1192,1105,-87,-0.073
+Town,Bolivar town,2189,2029,-160,-0.0731
+Town,Cuyler town,980,908,-72,-0.0735
+Town,Oxford town,3901,3614,-287,-0.0736
+Town,Westford town,868,804,-64,-0.0737
+Town,Brant town,2065,1912,-153,-0.0741
+Town,Almond town,1633,1512,-121,-0.0741
+Town,Northampton town,2670,2472,-198,-0.0742
+Town,Clayton town,5153,4770,-383,-0.0743
+Town,Copake town,3615,3346,-269,-0.0744
+Town,Essex town,671,621,-50,-0.0745
+Town,Bellmont town,1434,1327,-107,-0.0746
+Town,Hartwick town,2110,1952,-158,-0.0749
+Town,Windsor town,6274,5804,-470,-0.0749
+Town,Bainbridge town,3308,3060,-248,-0.075
+Town,German Flatts town,13258,12263,-995,-0.075
+Town,Elbridge town,5922,5476,-446,-0.0753
+Town,Gouverneur town,7085,6551,-534,-0.0754
+Town,Manheim town,3334,3082,-252,-0.0756
+Town,Batavia town,6809,6293,-516,-0.0758
+Town,Bombay town,1357,1254,-103,-0.0759
+Town,Morris town,1878,1735,-143,-0.0761
+Town,Addison town,2595,2397,-198,-0.0763
+Town,Altona town,2887,2666,-221,-0.0766
+Town,Newark Valley town,3946,3642,-304,-0.077
+Town,Orwell town,1167,1077,-90,-0.0771
+Town,Bath town,12379,11424,-955,-0.0771
+Town,Marshall town,2131,1966,-165,-0.0774
+Town,Shelby town,5319,4907,-412,-0.0775
+Town,Jewett town,953,879,-74,-0.0776
+Town,Kortright town,1675,1544,-131,-0.0782
+Town,Lindley town,1967,1813,-154,-0.0783
+Town,Montezuma town,1277,1177,-100,-0.0783
+Town,Alexandria town,4061,3741,-320,-0.0788
+Town,West Sparta town,1255,1156,-99,-0.0789
+Town,Middlesex town,1495,1377,-118,-0.0789
+Town,Columbus town,975,898,-77,-0.079
+Town,Gainesville town,2182,2009,-173,-0.0793
+Town,Erin town,1962,1806,-156,-0.0795
+Town,Conklin town,5441,5008,-433,-0.0796
+Town,Harrietstown town,5709,5254,-455,-0.0797
+Town,Throop town,1990,1831,-159,-0.0799
+Town,Chemung town,2563,2358,-205,-0.08
+Town,Lake Luzerne town,3347,3079,-268,-0.0801
+Town,Chester town,3355,3086,-269,-0.0802
+Town,Ashford town,2132,1961,-171,-0.0802
+Town,Madison town,3008,2766,-242,-0.0805
+Town,Sharon town,1846,1697,-149,-0.0807
+Town,Sennett town,3595,3304,-291,-0.0809
+Town,Cobleskill town,6625,6086,-539,-0.0814
+Town,Barker town,2732,2509,-223,-0.0816
+Town,Martinsburg town,1433,1316,-117,-0.0816
+Town,Denmark town,2860,2626,-234,-0.0818
+Town,Frankfort town,7636,7011,-625,-0.0818
+Town,Canaan town,1710,1570,-140,-0.0819
+Town,Persia town,2404,2207,-197,-0.0819
+Town,Pavilion town,2495,2290,-205,-0.0822
+Town,Genesee Falls town,438,402,-36,-0.0822
+Town,Ossian town,789,724,-65,-0.0824
+Town,Danube town,1039,953,-86,-0.0828
+Town,East Otto town,1062,974,-88,-0.0829
+Town,Barrington town,1681,1541,-140,-0.0833
+Town,Burlington town,1140,1045,-95,-0.0833
+Town,Moravia town,3626,3323,-303,-0.0836
+Town,Hartsville town,609,558,-51,-0.0837
+Town,Coventry town,1655,1516,-139,-0.084
+Town,Scott town,1176,1077,-99,-0.0842
+Town,Ancram town,1573,1440,-133,-0.0846
+Town,Harpersfield town,1577,1442,-135,-0.0856
+Town,Cayuta town,556,508,-48,-0.0863
+Town,Hampton town,938,857,-81,-0.0864
+Town,Fort Covington town,1676,1531,-145,-0.0865
+Town,Elba town,2370,2164,-206,-0.0869
+Town,Remsen town,1929,1761,-168,-0.0871
+Town,Antwerp town,1846,1683,-163,-0.0883
+Town,Lincklaen town,396,361,-35,-0.0884
+Town,Theresa town,2905,2648,-257,-0.0885
+Town,Tioga town,4871,4440,-431,-0.0885
+Town,Leon town,1365,1244,-121,-0.0886
+Town,Ellington town,1643,1497,-146,-0.0889
+Town,Rossie town,877,799,-78,-0.0889
+Town,Mina town,1106,1007,-99,-0.0895
+Town,Summerhill town,1217,1108,-109,-0.0896
+Town,Ellery town,4528,4122,-406,-0.0897
+Town,Barre town,2025,1843,-182,-0.0899
+Town,Oppenheim town,1924,1751,-173,-0.0899
+Town,Wayland town,4102,3732,-370,-0.0902
+Town,Piercefield town,310,282,-28,-0.0903
+Town,Winfield town,2086,1897,-189,-0.0906
+Town,Stockton town,2248,2044,-204,-0.0907
+Town,Wilmington town,1253,1139,-114,-0.091
+Town,Lumberland town,2468,2243,-225,-0.0912
+Town,Clarendon town,3648,3315,-333,-0.0913
+Town,Sangerfield town,2561,2327,-234,-0.0914
+Town,Ward town,368,334,-34,-0.0924
+Town,Carlisle town,1948,1768,-180,-0.0924
+Town,Boylston town,549,498,-51,-0.0929
+Town,Angelica town,1403,1272,-131,-0.0934
+Town,Fairfield town,1627,1475,-152,-0.0934
+Town,Urbana town,2343,2122,-221,-0.0943
+Town,Hague town,699,633,-66,-0.0944
+Town,Venice town,1368,1236,-132,-0.0965
+Town,Caneadea town,2542,2294,-248,-0.0976
+Town,Albion town,8468,7639,-829,-0.0979
+Town,Wheeler town,1260,1136,-124,-0.0984
+Town,Warren town,1143,1029,-114,-0.0997
+Town,Norwich town,3998,3599,-399,-0.0998
+Town,Petersburgh town,1525,1372,-153,-0.1003
+Town,McDonough town,886,797,-89,-0.1005
+Town,Clifton town,751,675,-76,-0.1012
+Town,Wolcott town,4453,4002,-451,-0.1013
+Town,Thurman town,1219,1095,-124,-0.1017
+Town,Roxbury town,2502,2247,-255,-0.1019
+Town,Chautauqua town,4464,4009,-455,-0.1019
+Town,Seward town,1763,1583,-180,-0.1021
+Town,Plymouth town,1804,1619,-185,-0.1025
+Town,Pine Plains town,2473,2218,-255,-0.1031
+Town,Dayton town,1886,1690,-196,-0.1039
+Town,Lincoln town,2012,1802,-210,-0.1044
+Town,Johnsburg town,2395,2143,-252,-0.1052
+Town,Denning town,551,493,-58,-0.1053
+Town,Scipio town,1713,1531,-182,-0.1062
+Town,Alden town,10865,9706,-1159,-0.1067
+Town,Collins town,6601,5894,-707,-0.1071
+Town,Portland town,4827,4309,-518,-0.1073
+Town,Grove town,548,489,-59,-0.1077
+Town,Wilna town,6427,5732,-695,-0.1081
+Town,Varick town,1857,1656,-201,-0.1082
+Town,Lorraine town,1037,924,-113,-0.109
+Town,Ashland town,1695,1510,-185,-0.1091
+Town,Middlefield town,2114,1882,-232,-0.1097
+Town,Richford town,1172,1043,-129,-0.1101
+Town,Middletown town,3750,3336,-414,-0.1104
+Town,Butler town,2064,1835,-229,-0.1109
+Town,Mentz town,2378,2114,-264,-0.111
+Town,Broome town,973,863,-110,-0.1131
+Town,Fremont town,1008,894,-114,-0.1131
+Town,Cohocton town,2561,2269,-292,-0.114
+Town,Southport town,10940,9691,-1249,-0.1142
+Town,Otego town,3115,2756,-359,-0.1152
+Town,Clinton town,737,652,-85,-0.1153
+Town,Huron town,2118,1872,-246,-0.1161
+Town,Charlotte town,1729,1527,-202,-0.1168
+Town,Brookfield town,2545,2247,-298,-0.1171
+Town,Andover town,1830,1615,-215,-0.1175
+Town,Stamford town,2267,2000,-267,-0.1178
+Town,Stratford town,610,538,-72,-0.118
+Town,Leyden town,1785,1572,-213,-0.1193
+Town,Scio town,1833,1614,-219,-0.1195
+Town,Truxton town,1133,997,-136,-0.12
+Town,Red Hook town,11319,9953,-1366,-0.1207
+Town,Avoca town,2264,1990,-274,-0.121
+Town,Edwards town,1156,1015,-141,-0.122
+Town,Burns town,1180,1036,-144,-0.122
+Town,Ledyard town,1886,1655,-231,-0.1225
+Town,Nunda town,3064,2688,-376,-0.1227
+Town,Russia town,2587,2269,-318,-0.1229
+Town,Annsville town,3012,2639,-373,-0.1238
+Town,Pike town,1114,975,-139,-0.1248
+Town,Orange town,1609,1408,-201,-0.1249
+Town,Smithfield town,1288,1127,-161,-0.125
+Town,Rockland town,3775,3290,-485,-0.1285
+Town,Pomfret town,14965,13035,-1930,-0.129
+Town,Pharsalia town,593,516,-77,-0.1298
+Town,Esperance town,2076,1806,-270,-0.1301
+Town,Ashland town,784,682,-102,-0.1301
+Town,Highland town,2530,2196,-334,-0.132
+Town,Redfield town,550,476,-74,-0.1345
+Town,Bolton town,2326,2012,-314,-0.135
+Town,Richfield town,2388,2065,-323,-0.1353
+Town,Taylor town,523,452,-71,-0.1358
+Town,Portage town,884,763,-121,-0.1369
+Town,Fine town,1512,1304,-208,-0.1376
+Town,Tupper Lake town,5971,5147,-824,-0.138
+Town,Birdsall town,221,190,-31,-0.1403
+Town,Hamden town,1323,1137,-186,-0.1406
+Town,Colchester town,2077,1782,-295,-0.142
+Town,Hancock town,3224,2764,-460,-0.1427
+Town,Preston town,1044,895,-149,-0.1427
+Town,Alabama town,1869,1602,-267,-0.1429
+Town,Willet town,1043,894,-149,-0.1429
+Town,Worth town,231,198,-33,-0.1429
+Town,Ischua town,859,736,-123,-0.1432
+Town,Andes town,1301,1114,-187,-0.1437
+Town,Exeter town,987,845,-142,-0.1439
+Town,Wethersfield town,883,755,-128,-0.145
+Town,Malone town,14545,12433,-2112,-0.1452
+Town,Cincinnatus town,1056,902,-154,-0.1458
+Town,Gilboa town,1307,1111,-196,-0.15
+Town,Amenia town,4436,3769,-667,-0.1504
+Town,Fremont town,1381,1161,-220,-0.1593
+Town,Clarksville town,1161,976,-185,-0.1593
+Town,North Elba town,8957,7480,-1477,-0.1649
+Town,Deposit town,1712,1427,-285,-0.1665
+Town,German town,370,308,-62,-0.1676
+Town,Fulton town,1442,1199,-243,-0.1685
+Town,Middleburgh town,3746,3112,-634,-0.1692
+Town,Pitcher town,803,667,-136,-0.1694
+Town,Delaware town,2670,2203,-467,-0.1749
+Town,Dannemora town,4898,4037,-861,-0.1758
+Town,Dresden town,652,537,-115,-0.1764
+Town,Ellicottville town,1598,1315,-283,-0.1771
+Town,West Almond town,334,274,-60,-0.1796
+Town,Brighton town,1435,1174,-261,-0.1819
+Town,Blenheim town,377,308,-69,-0.183
+Town,Eaton town,5255,4284,-971,-0.1848
+Town,Otselic town,1054,859,-195,-0.185
+Town,Chateaugay town,2155,1743,-412,-0.1912
+Town,DeRuyter town,1589,1276,-313,-0.197
+Town,Troupsburg town,1291,1017,-274,-0.2122
+Town,Attica town,7702,5790,-1912,-0.2482
+Town,Romulus town,4316,3203,-1113,-0.2579
+Town,Groveland town,3249,2316,-933,-0.2872
+Town,Red House town,38,27,-11,-0.2895
+Town,Georgetown town,974,648,-326,-0.3347
+Town,Monroe town,39912,21387,-18525,-0.4641
